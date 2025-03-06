@@ -3,3 +3,7 @@ Developed an Annual Report Dashboard in Excel to analyze shopping trends among d
 
  Dashboard View <a href ="https://github.com/gomkalevaishnavi/Store-data-analysis-/blob/main/Screenshot%202025-03-06%20152010.png">Click Me</a>
 
+ ScrenShot:
+ ![Screenshot 2025-03-06 152010](https://github.com/user-attachments/assets/b0fdd194-f277-4b40-bd49-5c606c1a3708)
+
+
