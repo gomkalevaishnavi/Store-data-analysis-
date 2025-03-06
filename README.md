@@ -9,10 +9,10 @@ Dashboard View <a href ="https://github.com/gomkalevaishnavi/Store-data-analysis
 
 
  # Process
-  Verify data for any missing values and anomalies, and sort out the same.
-  Made sure data is consistent and clean with respect to data type, data format and values used.
-  Created pivot tables according to the questions asked.
-  Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+  * Verify data for any missing values and anomalies, and sort out the same.
+  * Made sure data is consistent and clean with respect to data type, data format and values used.
+  * Created pivot tables according to the questions asked.
+  * Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
   # Dashboard
   
@@ -22,9 +22,9 @@ Dashboard View <a href ="https://github.com/gomkalevaishnavi/Store-data-analysis
  # Project Insight 
 * Women customers are more likely to buy products compared to men (~65%).
 * Top 3 states for product purchases: Maharashtra, Karnataka, and Uttar Pradesh.
-## Adult age group (30-49 years) contributes the most (~50%) to purchases.
-## Customers order the maximum number of products from Amazon, Flipkart, and Myntra.
-## More than 90% of products are successfully delivered.
+* Adult age group (30-49 years) contributes the most (~50%) to purchases.
+* Customers order the maximum number of products from Amazon, Flipkart, and Myntra.
+* More than 90% of products are successfully delivered.
 
 # Final Conclusion:
 To improve the sales of Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
