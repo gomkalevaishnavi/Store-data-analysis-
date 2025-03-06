@@ -20,8 +20,8 @@ Dashboard View <a href ="https://github.com/gomkalevaishnavi/Store-data-analysis
 
 
  # Project Insight 
-## Women customers are more likely to buy products compared to men (~65%).
-## Top 3 states for product purchases: Maharashtra, Karnataka, and Uttar Pradesh.
+* Women customers are more likely to buy products compared to men (~65%).
+* Top 3 states for product purchases: Maharashtra, Karnataka, and Uttar Pradesh.
 ## Adult age group (30-49 years) contributes the most (~50%) to purchases.
 ## Customers order the maximum number of products from Amazon, Flipkart, and Myntra.
 ## More than 90% of products are successfully delivered.
